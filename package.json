@@ -1,0 +1,16 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "main": "react.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aman",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
